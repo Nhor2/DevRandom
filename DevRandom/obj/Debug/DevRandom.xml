@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DevRandom
+</name>
+</assembly>
+<members>
+<member name="T:DevRandom.My.Resources.Resources">
+<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+<member name="P:DevRandom.My.Resources.Resources.ResourceManager">
+<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member>
+<member name="P:DevRandom.My.Resources.Resources.Culture">
+<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member>
+<member name="P:DevRandom.My.Resources.Resources.DevRandom_64">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:DevRandom.Img2Wav.FFT_Img2Wav.transform(System.Double[])">
+ <summary>
+ Compute Fast Fourier Transform of (complex) data, in place.
+ </summary>
+</member>
+<member name="M:DevRandom.Img2Wav.FFT_Img2Wav.inverse(System.Double[])">
+ <summary>
+ Compute Inverse Fast Fourier Transform of (complex) data, in place.
+ </summary>
+</member>
+<member name="M:DevRandom.Img2Wav.FFT_Img2Wav.test(System.Double[])">
+ <summary>
+ Accuracy check on FFT of data. Make a copy of data, Compute the FFT, then
+ the inverse and compare to the original.  Returns the rms difference.
+ </summary>
+</member>
+<member name="M:DevRandom.Img2Wav.FFT_Img2Wav.makeRandom(System.Int32)">
+ <summary>
+ Make a random array of n (complex) elements. 
+ </summary>
+</member>
+</members>
+</doc>

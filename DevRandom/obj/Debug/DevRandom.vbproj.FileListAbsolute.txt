@@ -1,0 +1,17 @@
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\bin\Debug\DevRandom.exe.config
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\bin\Debug\DevRandom.exe
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\bin\Debug\DevRandom.pdb
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\bin\Debug\DevRandom.xml
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\obj\Debug\DevRandom.vbproj.AssemblyReference.cache
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\obj\Debug\DevRandom.Form1.resources
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\obj\Debug\DevRandom.Resources.resources
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\obj\Debug\DevRandom.vbproj.GenerateResource.cache
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\obj\Debug\DevRandom.vbproj.CoreCompileInputs.cache
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\obj\Debug\DevRandom.exe
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\obj\Debug\DevRandom.xml
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\obj\Debug\DevRandom.pdb
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\obj\Debug\DevRandom.Form2.resources
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\obj\Debug\DevRandom.vbproj.Up2Date
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\bin\Debug\Img2WavHelp.dll
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\bin\Debug\Img2WavHelp.pdb
+C:\Users\lordm\source\repos2\DevRandom\DevRandom\bin\Debug\QRCoder.dll
